@@ -1,0 +1,9 @@
+Student Name: karan
+Email: karan@gmail.com
+Phone: 9876143432
+Student Name: Dhruval mehta
+Email: dhruvalm@gmail.com
+Phone: 8765434509
+Student Name: Satyam lodhiya
+Email: satyamlodhiya@gmail.com
+Phone: 76543215677
